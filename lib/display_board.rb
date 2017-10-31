@@ -2,6 +2,9 @@
 def display_board
   puts "   ""|""   ""|""   "
   puts "-----------"
+  puts "   ""|""   ""|""   "
+  puts "-----------"
+  puts "   ""|""   ""|""   "
 end
-3.times do display_board
-end
+display_board
+
