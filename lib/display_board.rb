@@ -4,3 +4,4 @@ def display_board
   puts "-----------"
 end
 3.times do display_board
+end
