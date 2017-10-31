@@ -3,4 +3,4 @@ def display_board
   puts "   ""|""   ""|""   "
   puts "-----------"
 end
-do display_board.3
+3.times do display_board
